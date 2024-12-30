@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d587eaa3-8f0d-4396-928a-a8ca4a6b561e) and start prompting.
+Simply visit https://unique-speculoos-412bf6.netlify.app/
 
 Changes made via Lovable will be committed automatically to this repo.
 
